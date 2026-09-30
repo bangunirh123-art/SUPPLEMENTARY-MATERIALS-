@@ -1,2 +1,4 @@
 # SUPPLEMENTARY-MATERIALS-
-Smart Indoor Lighting for Sustainable Buildings: A Systematic Bibliometric Review of Human‑Centric Control, IoT Platforms, and Automation‑Related Optimization
+Integration Gaps in Smart Indoor Lighting: A Systematic 
+Bibliometric Review of Human-Centric Control, IoT, and 
+Event-Driven Automation 
